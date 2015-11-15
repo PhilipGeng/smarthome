@@ -1,0 +1,2 @@
+E:\1Polyu\year3sem2\computing\project\SmartHome\app\build\intermediates\classes\debug
+E:\1Polyu\year3sem2\computing\project\SmartHome\app\build\intermediates\pre-dexed\debug\support-v4-19.1.0-f957a36009fd1f0f43786af96de90cd9164fdcc5.jar
