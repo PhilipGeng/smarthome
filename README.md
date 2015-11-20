@@ -8,6 +8,7 @@ It performs like a "smart switch". Can be easily controlled by:<br>
 1. Mobile: android/java<br>
 2. Raspberry pi: python<br>
 3. Server: PHP <br>
+
 <h5>Based on theory:</h5>
 1. Ubiquituous computing<br>
 2. Wifi Fingerprint localization<br>
